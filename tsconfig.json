@@ -17,8 +17,10 @@
 		"stripInternal": true,
 		"noImplicitAny": false,
 		"types": [
-			"meteor-typings",
-			"@types/underscore"
+			"cordova-plugin-splashscreen",
+			"cordova-plugin-statusbar",
+			"meteor",
+			"underscore"
 		]
 	},
 	"files": [
